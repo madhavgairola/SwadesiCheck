@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SwadesiCheck</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="intro">
+      <h1 id="heading">SWADESI check</h1>
+      <hr style="height: 2px; background-color: black" />
+      <p class="tagline">
+        Know which companies are truly Indian — and which aren’t anymore.
+      </p>
+      <br />
+
+      <div class="description">
+        <p>
+          SwadesiCheck helps you discover how much of your favorite Indian
+          companies are still <strong>Indian-owned</strong> — and how much is
+          now held by <strong>foreign investors</strong>.
+        </p>
+        <p>
+          We use publicly available data to show
+          <strong>ownership percentages</strong>,
+          <strong>major stakeholders</strong>, and
+          <strong>verified sources</strong> — helping you make informed and
+          conscious choices.
+        </p>
+        <!-- <p>
+          Each company is color-coded:
+          <span class="color-key green">🟢 Indian-owned</span> •
+          <span class="color-key yellow">🟡 Mixed</span> •
+          <span class="color-key red">🔴 Foreign-controlled</span>
+        </p> -->
+      </div>
+
+      <p class="disclaimer">
+        📊 Data sourced from public records (Wikipedia, Moneycontrol, official
+        filings). Ownership may change over time. Last updated periodically.
+      </p>
+    </header>
+
+    <!-- 🟩 Legend Section -->
+    <div class="legend">
+      <label style="font-weight: bold">📌LEGEND:</label>
+      <span class="dark-green leg">Indian (0–20%)</span>
+      <span class="light-green leg">Mostly Indian (21–40%)</span>
+      <span class="yellow leg">Mixed (41–60%)</span>
+      <span class="light-red leg">Mostly Foreign (61–80%)</span>
+      <span class="dark-red leg">Foreign (81–100%)</span>
+    </div>
+
+    <!-- 📊 Empty Table -->
+    <section class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Owner</th>
+            <th>% Foreign Ownership</th>
+            <th>Evaluation</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- rows will be added here dynamically -->
+        </tbody>
+      </table>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
