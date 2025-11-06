@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Reliance Industries Limited",
+    "owner": "Mukesh Ambani & Family (India)",
+    "foreign_ownership": "18.65%",
+    "valuation": "$238.5 B USD (≈ ₹19.92 L Cr)",
+    "source": "https://groww.in/stocks/reliance-industries-ltd"
+  },
+  {
+    "name": "HDFC Bank",
+    "owner": "Professionally Managed (No single promoter)",
+    "foreign_ownership": "32.4%",
+    "valuation": "$181.3 B USD (≈ ₹15.14 L Cr)",
+    "source": "https://ticker.finology.in/company/HDFCBANK"
+  },
+  {
+    "name": "Bharti Airtel Limited",
+    "owner": "Sunil Bharti Mittal & Family (India)",
+    "foreign_ownership": "27.42%",
+    "valuation": "$151.8 B USD (≈ ₹12.68 L Cr)",
+    "source": "https://groww.in/stocks/bharti-airtel-ltd"
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "10.33%",
+    "valuation": "$129.5 B USD (≈ ₹10.82 L Cr)",
+    "source": "https://groww.in/stocks/tata-consultancy-services-ltd"
+  },
+  {
+    "name": "ICICI Bank",
+    "owner": "Professionally Managed (No single promoter)",
+    "foreign_ownership": "43.9%",
+    "valuation": "$113.0 B USD (≈ ₹9.44 L Cr)",
+    "source": "https://ticker.finology.in/company/ICICIBANK"
+  },
+  {
+    "name": "State Bank of India",
+    "owner": "Government of India",
+    "foreign_ownership": "9.57%",
+    "valuation": "$105.8 B USD (≈ ₹8.83 L Cr)",
+    "source": "https://groww.in/stocks/state-bank-of-india"
+  },
+  {
+    "name": "Bajaj Finance Limited",
+    "owner": "Bajaj Finserv (Bajaj Group)",
+    "foreign_ownership": "21.97%",
+    "valuation": "$78.8 B USD (≈ ₹6.58 L Cr)",
+    "source": "https://groww.in/stocks/bajaj-finance-ltd"
+  },
+  {
+    "name": "Infosys",
+    "owner": "Founders & Family (Professionally Managed)",
+    "foreign_ownership": "30.23%",
+    "valuation": "$73.0 B USD (≈ ₹6.10 L Cr)",
+    "source": "https://groww.in/stocks/infosys-ltd"
+  },
+  {
+    "name": "Hindustan Unilever Limited",
+    "owner": "Unilever PLC (UK/Netherlands)",
+    "foreign_ownership": "10.79%",
+    "valuation": "$68.8 B USD (≈ ₹5.75 L Cr)",
+    "source": "https://groww.in/stocks/hindustan-unilever-ltd"
+  },
+  {
+    "name": "Life Insurance Corporation of India",
+    "owner": "Government of India",
+    "foreign_ownership": "0.12%",
+    "valuation": "$68.7 B USD (≈ ₹5.73 L Cr)",
+    "source": "https://groww.in/stocks/life-insurance-corporation-of-india"
+  },
+  {
+    "name": "ITC Limited",
+    "owner": "Professionally Managed (No single promoter)",
+    "foreign_ownership": "11.9%",
+    "valuation": "$65.2 B USD (≈ ₹5.45 L Cr)",
+    "source": "https://www.screener.in/company/ITC/"
+  },
+  {
+    "name": "Larsen & Toubro",
+    "owner": "Professionally Managed (No single promoter)",
+    "foreign_ownership": "24.5%",
+    "valuation": "$62.3 B USD (≈ ₹5.20 L Cr)",
+    "source": "https://www.screener.in/company/LT/"
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "owner": "Uday Kotak & Family (India)",
+    "foreign_ownership": "37.5%",
+    "valuation": "$53.4 B USD (≈ ₹4.46 L Cr)",
+    "source": "https://www.screener.in/company/KOTAKBANK/"
+  },
+  {
+    "name": "HCL Technologies",
+    "owner": "Shiv Nadar & Family (India)",
+    "foreign_ownership": "19.3%",
+    "valuation": "$52.9 B USD (≈ ₹4.42 L Cr)",
+    "source": "https://www.screener.in/company/HCLTECH/"
+  },
+  {
+    "name": "Maruti Suzuki India",
+    "owner": "Suzuki Motor Corporation (Japan)",
+    "foreign_ownership": "22.6%",
+    "valuation": "$51.5 B USD (≈ ₹4.30 L Cr)",
+    "source": "https://www.screener.in/company/MARUTI/"
+  },
+  {
+    "name": "Tata Motors",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "17.6%",
+    "valuation": "$48.8 B USD (≈ ₹4.08 L Cr)",
+    "source": "https://www.screener.in/company/TATAMOTORS/"
+  },
+  {
+    "name": "Sun Pharmaceutical Industries",
+    "owner": "Dilip Shanghvi & Family (India)",
+    "foreign_ownership": "17.2%",
+    "valuation": "$45.2 B USD (≈ ₹3.78 L Cr)",
+    "source": "https://www.screener.in/company/SUNPHARMA/"
+  },
+  {
+    "name": "Adani Enterprises",
+    "owner": "Gautam Adani & Family (India)",
+    "foreign_ownership": "14.9%",
+    "valuation": "$44.3 B USD (≈ ₹3.70 L Cr)",
+    "source": "https://www.screener.in/company/ADANIENT/"
+  },
+  {
+    "name": "Axis Bank",
+    "owner": "Professionally Managed (No single promoter)",
+    "foreign_ownership": "50.1%",
+    "valuation": "$42.6 B USD (≈ ₹3.56 L Cr)",
+    "source": "https://www.screener.in/company/AXISBANK/"
+  },
+  {
+    "name": "NTPC Limited",
+    "owner": "Government of India",
+    "foreign_ownership": "16.1%",
+    "valuation": "$41.9 B USD (≈ ₹3.50 L Cr)",
+    "source": "https://www.screener.in/company/NTPC/"
+  },
+  {
+    "name": "Mahindra & Mahindra",
+    "owner": "Mahindra Family (India)",
+    "foreign_ownership": "40.8%",
+    "valuation": "$40.1 B USD (≈ ₹3.35 L Cr)",
+    "source": "https://www.screener.in/company/M&M/"
+  },
+  {
+    "name": "Titan Company",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "18.6%",
+    "valuation": "$39.5 B USD (≈ ₹3.30 L Cr)",
+    "source": "https://www.screener.in/company/TITAN/"
+  },
+  {
+    "name": "Power Grid Corporation of India",
+    "owner": "Government of India",
+    "foreign_ownership": "26.3%",
+    "valuation": "$36.7 B USD (≈ ₹3.07 L Cr)",
+    "source": "https://www.screener.in/company/POWERGRID/"
+  },
+  {
+    "name": "ONGC",
+    "owner": "Government of India",
+    "foreign_ownership": "8.8%",
+    "valuation": "$36.3 B USD (≈ ₹3.03 L Cr)",
+    "source": "https://www.screener.in/company/ONGC/"
+  },
+  {
+    "name": "Adani Ports & SEZ",
+    "owner": "Gautam Adani & Family (India)",
+    "foreign_ownership": "14.3%",
+    "valuation": "$35.8 B USD (≈ ₹2.99 L Cr)",
+    "source": "https://www.screener.in/company/ADANIPORTS/"
+  },
+  {
+    "name": "UltraTech Cement",
+    "owner": "Aditya Birla Group",
+    "foreign_ownership": "15.4%",
+    "valuation": "$35.6 B USD (≈ ₹2.97 L Cr)",
+    "source": "https://www.screener.in/company/ULTRACEMCO/"
+  },
+  {
+    "name": "Coal India",
+    "owner": "Government of India",
+    "foreign_ownership": "7.9%",
+    "valuation": "$35.4 B USD (≈ ₹2.96 L Cr)",
+    "source": "https://www.screener.in/company/COALINDIA/"
+  },
+  {
+    "name": "Asian Paints",
+    "owner": "Dani, Choksi & Vakil Families (India)",
+    "foreign_ownership": "17.0%",
+    "valuation": "$34.6 B USD (≈ ₹2.89 L Cr)",
+    "source": "https://www.screener.in/company/ASIANPAINT/"
+  },
+  {
+    "name": "Hindustan Aeronautics",
+    "owner": "Government of India",
+    "foreign_ownership": "12.3%",
+    "valuation": "$34.3 B USD (≈ ₹2.86 L Cr)",
+    "source": "https://www.screener.in/company/HAL/"
+  },
+  {
+    "name": "Tata Steel",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "19.3%",
+    "valuation": "$33.8 B USD (≈ ₹2.82 L Cr)",
+    "source": "https://www.screener.in/company/TATASTEEL/"
+  },
+  {
+    "name": "Bajaj Finserv",
+    "owner": "Bajaj Group",
+    "foreign_ownership": "9.9%",
+    "valuation": "$32.9 B USD (≈ ₹2.75 L Cr)",
+    "source": "https://www.screener.in/company/BAJAJFINSV/"
+  },
+  {
+    "name": "Adani Power",
+    "owner": "Gautam Adani & Family (India)",
+    "foreign_ownership": "15.8%",
+    "valuation": "$32.0 B USD (≈ ₹2.67 L Cr)",
+    "source": "https://www.screener.in/company/ADANIPOWER/"
+  },
+  {
+    "name": "Wipro",
+    "owner": "Azim Premji & Family (India)",
+    "foreign_ownership": "6.8%",
+    "valuation": "$31.4 B USD (≈ ₹2.62 L Cr)",
+    "source": "https://www.screener.in/company/WIPRO/"
+  },
+  {
+    "name": "JSW Steel",
+    "owner": "Sajjan Jindal & Family (India)",
+    "foreign_ownership": "23.4%",
+    "valuation": "$29.6 B USD (≈ ₹2.47 L Cr)",
+    "source": "https://www.screener.in/company/JSWSTEEL/"
+  },
+  {
+    "name": "Nestle India",
+    "owner": "Nestlé S.A. (Switzerland)",
+    "foreign_ownership": "12.1%",
+    "valuation": "$29.0 B USD (≈ ₹2.42 L Cr)",
+    "source": "https://www.screener.in/company/NESTLEIND/"
+  },
+  {
+    "name": "Indian Oil Corporation",
+    "owner": "Government of India",
+    "foreign_ownership": "7.7%",
+    "valuation": "$27.9 B USD (≈ ₹2.33 L Cr)",
+    "source": "https://www.screener.in/company/IOC/"
+  },
+  {
+    "name": "Vedanta",
+    "owner": "Anil Agarwal & Family (India)",
+    "foreign_ownership": "7.9%",
+    "valuation": "$27.4 B USD (≈ ₹2.29 L Cr)",
+    "source": "https://www.screener.in/company/VEDL/"
+  },
+  {
+    "name": "Adani Green Energy",
+    "owner": "Gautam Adani & Family (India)",
+    "foreign_ownership": "16.1%",
+    "valuation": "$27.0 B USD (≈ ₹2.26 L Cr)",
+    "source": "https://www.screener.in/company/ADANIGREEN/"
+  },
+  {
+    "name": "HDFC Life Insurance",
+    "owner": "HDFC Bank Group",
+    "foreign_ownership": "29.9%",
+    "valuation": "$26.4 B USD (≈ ₹2.21 L Cr)",
+    "source": "https://www.screener.in/company/HDFCLIFE/"
+  },
+  {
+    "name": "Bajaj Auto",
+    "owner": "Bajaj Group",
+    "foreign_ownership": "14.5%",
+    "valuation": "$26.2 B USD (≈ ₹2.19 L Cr)",
+    "source": "https://www.screener.in/company/BAJAJ-AUTO/"
+  },
+  {
+    "name": "Hindalco Industries",
+    "owner": "Aditya Birla Group",
+    "foreign_ownership": "25.7%",
+    "valuation": "$24.9 B USD (≈ ₹2.08 L Cr)",
+    "source": "https://www.screener.in/company/HINDALCO/"
+  },
+  {
+    "name": "Avenue Supermarts (DMart)",
+    "owner": "Radhakishan Damani & Family (India)",
+    "foreign_ownership": "7.9%",
+    "valuation": "$24.7 B USD (≈ ₹2.06 L Cr)",
+    "source": "https://www.screener.in/company/DMART/"
+  },
+  {
+    "name": "SBI Life Insurance",
+    "owner": "State Bank of India",
+    "foreign_ownership": "12.0%",
+    "valuation": "$24.1 B USD (≈ ₹2.01 L Cr)",
+    "source": "https://www.screener.in/company/SBILIFE/"
+  },
+  {
+    "name": "Dr. Reddy's Laboratories",
+    "owner": "Reddy Family (India)",
+    "foreign_ownership": "26.3%",
+    "valuation": "$23.6 B USD (≈ ₹1.97 L Cr)",
+    "source": "https://www.screener.in/company/DRREDDY/"
+  },
+  {
+    "name": "Cipla",
+    "owner": "Hamied Family (India)",
+    "foreign_ownership": "24.5%",
+    "valuation": "$23.0 B USD (≈ ₹1.92 L Cr)",
+    "source": "https://www.screener.in/company/CIPLA/"
+  },
+  {
+    "name": "IndusInd Bank",
+    "owner": "Hinduja Group (UK/India)",
+    "foreign_ownership": "45.1%",
+    "valuation": "$22.6 B USD (≈ ₹1.89 L Cr)",
+    "source": "https://www.screener.in/company/INDUSINDBK/"
+  },
+  {
+    "name": "Eicher Motors",
+    "owner": "Lal Family (India)",
+    "foreign_ownership": "29.9%",
+    "valuation": "$21.9 B USD (≈ ₹1.83 L Cr)",
+    "source": "https://www.screener.in/company/EICHERMOT/"
+  },
+  {
+    "name": "Grasim Industries",
+    "owner": "Aditya Birla Group",
+    "foreign_ownership": "12.3%",
+    "valuation": "$21.5 B USD (≈ ₹1.80 L Cr)",
+    "source": "https://www.screener.in/company/GRASIM/"
+  },
+  {
+    "name": "Britannia Industries",
+    "owner": "Wadia Group (India)",
+    "foreign_ownership": "18.3%",
+    "valuation": "$20.8 B USD (≈ ₹1.74 L Cr)",
+    "source": "https://www.screener.in/company/BRITANNIA/"
+  },
+  {
+    "name": "Godrej Consumer Products",
+    "owner": "Godrej Family (India)",
+    "foreign_ownership": "24.5%",
+    "valuation": "$20.3 B USD (≈ ₹1.70 L Cr)",
+    "source": "https://www.screener.in/company/GODREJCP/"
+  },
+  {
+    "name": "Tata Consumer Products",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "25.6%",
+    "valuation": "$20.0 B USD (≈ ₹1.67 L Cr)",
+    "source": "https://www.screener.in/company/TATACONSUM/"
+  },
+  {
+    "name": "Shriram Finance",
+    "owner": "Shriram Group",
+    "foreign_ownership": "45.9%",
+    "valuation": "$19.6 B USD (≈ ₹1.64 L Cr)",
+    "source": "https://www.screener.in/company/SHRIRAMFIN/"
+  },
+  {
+    "name": "GAIL (India)",
+    "owner": "Government of India",
+    "foreign_ownership": "14.9%",
+    "valuation": "$19.3 B USD (≈ ₹1.61 L Cr)",
+    "source": "https://www.screener.in/company/GAIL/"
+  },
+  {
+    "name": "Bank of Baroda",
+    "owner": "Government of India",
+    "foreign_ownership": "8.7%",
+    "valuation": "$19.0 B USD (≈ ₹1.59 L Cr)",
+    "source": "https://www.screener.in/company/BANKBARODA/"
+  },
+  {
+    "name": "Bharat Electronics",
+    "owner": "Government of India",
+    "foreign_ownership": "17.4%",
+    "valuation": "$18.5 B USD (≈ ₹1.55 L Cr)",
+    "source": "https://www.screener.in/company/BEL/"
+  },
+  {
+    "name": "Tech Mahindra",
+    "owner": "Mahindra Group",
+    "foreign_ownership": "27.8%",
+    "valuation": "$18.1 B USD (≈ ₹1.51 L Cr)",
+    "source": "https://www.screener.in/company/TECHM/"
+  },
+  {
+    "name": "Tata Power",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "9.4%",
+    "valuation": "$17.8 B USD (≈ ₹1.49 L Cr)",
+    "source": "https://www.screener.in/company/TATAPOWER/"
+  },
+  {
+    "name": "Zomato",
+    "owner": "Professionally Managed",
+    "foreign_ownership": "54.8%",
+    "valuation": "$17.5 B USD (≈ ₹1.46 L Cr)",
+    "source": "https://www.screener.in/company/ZOMATO/"
+  },
+  {
+    "name": "Adani Total Gas",
+    "owner": "Gautam Adani & Family / TotalEnergies SE (France)",
+    "foreign_ownership": "16.1%",
+    "valuation": "$17.2 B USD (≈ ₹1.44 L Cr)",
+    "source": "https://www.screener.in/company/ATGL/"
+  },
+  {
+    "name": "Siemens",
+    "owner": "Siemens AG (Germany)",
+    "foreign_ownership": "6.9%",
+    "valuation": "$16.9 B USD (≈ ₹1.41 L Cr)",
+    "source": "https://www.screener.in/company/SIEMENS/"
+  },
+  {
+    "name": "Varun Beverages",
+    "owner": "Ravi Jaipuria & Family (India)",
+    "foreign_ownership": "27.3%",
+    "valuation": "$16.6 B USD (≈ ₹1.39 L Cr)",
+    "source": "https://www.screener.in/company/VBL/"
+  },
+  {
+    "name": "Dabur India",
+    "owner": "Burman Family (India)",
+    "foreign_ownership": "19.6%",
+    "valuation": "$16.3 B USD (≈ ₹1.36 L Cr)",
+    "source": "https://www.screener.in/company/DABUR/"
+  },
+  {
+    "name": "Punjab National Bank",
+    "owner": "Government of India",
+    "foreign_ownership": "4.9%",
+    "valuation": "$16.0 B USD (≈ ₹1.34 L Cr)",
+    "source": "https://www.screener.in/company/PNB/"
+  },
+  {
+    "name": "Divi's Laboratories",
+    "owner": "Murali Divi & Family (India)",
+    "foreign_ownership": "19.8%",
+    "valuation": "$15.8 B USD (≈ ₹1.32 L Cr)",
+    "source": "https://www.screener.in/company/DIVISLAB/"
+  },
+  {
+    "name": "DLF",
+    "owner": "K.P. Singh & Family (India)",
+    "foreign_ownership": "15.7%",
+    "valuation": "$15.6 B USD (≈ ₹1.30 L Cr)",
+    "source": "https://www.screener.in/company/DLF/"
+  },
+  {
+    "name": "Hero MotoCorp",
+    "owner": "Munjal Family (India)",
+    "foreign_ownership": "28.5%",
+    "valuation": "$15.1 B USD (≈ ₹1.26 L Cr)",
+    "source": "https://www.screener.in/company/HEROMOTOCO/"
+  },
+  {
+    "name": "United Spirits",
+    "owner": "Diageo PLC (UK)",
+    "foreign_ownership": "15.9%",
+    "valuation": "$14.8 B USD (≈ ₹1.24 L Cr)",
+    "source": "https://www.screener.in/company/MCDOWELL-N/"
+  },
+  {
+    "name": "Pidilite Industries",
+    "owner": "Parekh Family (India)",
+    "foreign_ownership": "11.4%",
+    "valuation": "$14.6 B USD (≈ ₹1.22 L Cr)",
+    "source": "https://www.screener.in/company/PIDILITIND/"
+  },
+  {
+    "name": "Ambuja Cements",
+    "owner": "Adani Group",
+    "foreign_ownership": "14.8%",
+    "valuation": "$14.4 B USD (≈ ₹1.20 L Cr)",
+    "source": "https://www.screener.in/company/AMBUJACEM/"
+  },
+  {
+    "name": "ABB India",
+    "owner": "ABB Group (Switzerland/Sweden)",
+    "foreign_ownership": "5.6%",
+    "valuation": "$14.2 B USD (≈ ₹1.19 L Cr)",
+    "source": "https://www.screener.in/company/ABB/"
+  },
+  {
+    "name": "Cholamandalam Investment",
+    "owner": "Murugappa Group",
+    "foreign_ownership": "27.1%",
+    "valuation": "$14.0 B USD (≈ ₹1.17 L Cr)",
+    "source": "https://www.screener.in/company/CHOLAFIN/"
+  },
+  {
+    "name": "Mankind Pharma",
+    "owner": "Juneja & Arora Families (India)",
+    "foreign_ownership": "8.8%",
+    "valuation": "$13.8 B USD (≈ ₹1.15 L Cr)",
+    "source": "https://www.screener.in/company/MANKIND/"
+  },
+  {
+    "name": "Union Bank of India",
+    "owner": "Government of India",
+    "foreign_ownership": "7.9%",
+    "valuation": "$13.5 B USD (≈ ₹1.13 L Cr)",
+    "source": "https://www.screener.in/company/UNIONBANK/"
+  },
+  {
+    "name": "Havells India",
+    "owner": "Gupta Family (India)",
+    "foreign_ownership": "22.9%",
+    "valuation": "$13.2 B USD (≈ ₹1.10 L Cr)",
+    "source": "https://www.screener.in/company/HAVELLS/"
+  },
+  {
+    "name": "InterGlobe Aviation (IndiGo)",
+    "owner": "Rahul Bhatia & Rakesh Gangwal Families",
+    "foreign_ownership": "21.0%",
+    "valuation": "$13.0 B USD (≈ ₹1.09 L Cr)",
+    "source": "https://www.screener.in/company/INDIGO/"
+  },
+  {
+    "name": "Bharat Petroleum (BPCL)",
+    "owner": "Government of India",
+    "foreign_ownership": "13.6%",
+    "valuation": "$12.8 B USD (≈ ₹1.07 L Cr)",
+    "source": "https://www.screener.in/company/BPCL/"
+  },
+  {
+    "name": "ICICI Prudential Life Insurance",
+    "owner": "ICICI Bank",
+    "foreign_ownership": "26.1%",
+    "valuation": "$12.6 B USD (≈ ₹1.05 L Cr)",
+    "source": "https://www.screener.in/company/ICICIPRULI/"
+  },
+  {
+    "name": "Canara Bank",
+    "owner": "Government of India",
+    "foreign_ownership": "11.9%",
+    "valuation": "$12.4 B USD (≈ ₹1.04 L Cr)",
+    "source": "https://www.screener.in/company/CANBK/"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "owner": "Prathap C. Reddy & Family (India)",
+    "foreign_ownership": "49.1%",
+    "valuation": "$12.1 B USD (≈ ₹1.01 L Cr)",
+    "source": "https://www.screener.in/company/APOLLOHOSP/"
+  },
+  {
+    "name": "Shree Cement",
+    "owner": "Bangur Family (India)",
+    "foreign_ownership": "9.9%",
+    "valuation": "$11.8 B USD (≈ ₹0.99 L Cr)",
+    "source": "https://www.screener.in/company/SHREECEM/"
+  },
+  {
+    "name": "JSW Energy",
+    "owner": "Sajjan Jindal & Family (India)",
+    "foreign_ownership": "8.8%",
+    "valuation": "$11.6 B USD (≈ ₹0.97 L Cr)",
+    "source": "https://www.screener.in/company/JSWENERGY/"
+  },
+  {
+    "name": "LTIMindtree",
+    "owner": "Larsen & Toubro",
+    "foreign_ownership": "9.4%",
+    "valuation": "$11.4 B USD (≈ ₹0.95 L Cr)",
+    "source": "https://www.screener.in/company/LTIM/"
+  },
+  {
+    "name": "Trent",
+    "owner": "Tata Sons (Tata Group)",
+    "foreign_ownership": "22.5%",
+    "valuation": "$11.2 B USD (≈ ₹0.94 L Cr)",
+    "source": "https://www.screener.in/company/TRENT/"
+  },
+  {
+    "name": "Marico",
+    "owner": "Mariwala Family (India)",
+    "foreign_ownership": "25.7%",
+    "valuation": "$11.0 B USD (≈ ₹0.92 L Cr)",
+    "source": "https://www.screener.in/company/MARICO/"
+  },
+  {
+    "name": "Indian Railway Finance Corp",
+    "owner": "Government of India",
+    "foreign_ownership": "1.2%",
+    "valuation": "$10.8 B USD (≈ ₹0.90 L Cr)",
+    "source": "https://www.screener.in/company/IRFC/"
+  },
+  {
+    "name": "TVS Motor Company",
+    "owner": "TVS Group",
+    "foreign_ownership": "15.4%",
+    "valuation": "$10.6 B USD (≈ ₹0.89 L Cr)",
+    "source": "https://www.screener.in/company/TVSMOTOR/"
+  },
+  {
+    "name": "Hindustan Zinc",
+    "owner": "Vedanta Group",
+    "foreign_ownership": "1.2%",
+    "valuation": "$10.4 B USD (≈ ₹0.87 L Cr)",
+    "source": "https://www.screener.in/company/HINDZINC/"
+  },
+  {
+    "name": "Cummins India",
+    "owner": "Cummins Inc. (USA)",
+    "foreign_ownership": "16.1%",
+    "valuation": "$10.2 B USD (≈ ₹0.85 L Cr)",
+    "source": "https://www.screener.in/company/CUMMINSIND/"
+  },
+  {
+    "name": "ICICI Lombard General Insurance",
+    "owner": "ICICI Bank",
+    "foreign_ownership": "25.8%",
+    "valuation": "$10.0 B USD (≈ ₹0.84 L Cr)",
+    "source": "https://www.screener.in/company/ICICIGI/"
+  },
+  {
+    "name": "CG Power and Industrial Solutions",
+    "owner": "Murugappa Group",
+    "foreign_ownership": "17.4%",
+    "valuation": "$9.8 B USD (≈ ₹0.82 L Cr)",
+    "source": "https://www.screener.in/company/CGPOWER/"
+  },
+  {
+    "name": "Bosch",
+    "owner": "Robert Bosch GmbH (Germany)",
+    "foreign_ownership": "7.9%",
+    "valuation": "$9.6 B USD (≈ ₹0.80 L Cr)",
+    "source": "https://www.screener.in/company/BOSCHLTD/"
+  },
+  {
+    "name": "Lupin",
+    "owner": "Desh Bandhu Gupta Family (India)",
+    "foreign_ownership": "16.4%",
+    "valuation": "$9.4 B USD (≈ ₹0.79 L Cr)",
+    "source": "https://www.screener.in/company/LUPIN/"
+  },
+  {
+    "name": "Procter & Gamble Hygiene",
+    "owner": "Procter & Gamble (USA)",
+    "foreign_ownership": "4.6%",
+    "valuation": "$9.2 B USD (≈ ₹0.77 L Cr)",
+    "source": "https://www.screener.in/company/PGHH/"
+  },
+  {
+    "name": "Torrent Pharmaceuticals",
+    "owner": "Mehta Family (India)",
+    "foreign_ownership": "9.9%",
+    "valuation": "$9.0 B USD (≈ ₹0.75 L Cr)",
+    "source": "https://www.screener.in/company/TORNTPHARM/"
+  },
+  {
+    "name": "Macrotech Developers (Lodha)",
+    "owner": "Mangal Prabhat Lodha & Family (India)",
+    "foreign_ownership": "10.1%",
+    "valuation": "$8.8 B USD (≈ ₹0.74 L Cr)",
+    "source": "https://www.screener.in/company/LODHA/"
+  },
+  {
+    "name": "Colgate-Palmolive (India)",
+    "owner": "Colgate-Palmolive Company (USA)",
+    "foreign_ownership": "8.8%",
+    "valuation": "$8.6 B USD (≈ ₹0.72 L Cr)",
+    "source": "https://www.screener.in/company/COLPAL/"
+  },
+  {
+    "name": "Ashok Leyland",
+    "owner": "Hinduja Group (UK/India)",
+    "foreign_ownership": "18.3%",
+    "valuation": "$8.5 B USD (≈ ₹0.71 L Cr)",
+    "source": "https://www.screener.in/company/ASHOKLEY/"
+  },
+  {
+    "name": "IDBI Bank",
+    "owner": "Life Insurance Corporation of India / Government of India",
+    "foreign_ownership": "0.1%",
+    "valuation": "$8.4 B USD (≈ ₹0.70 L Cr)",
+    "source": "https://www.screener.in/company/IDBI/"
+  }
+]
